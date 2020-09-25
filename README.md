@@ -20,7 +20,3 @@
 - [E.123 Notation for national and international telephone numbers, e-mail addresses and Web addresses](https://en.wikipedia.org/wiki/E.123)
 - [E.164 The international public telecommunication numbering plan](https://en.wikipedia.org/wiki/E.164)
 - [National conventions for writing telephone numbers](https://en.wikipedia.org/wiki/National_conventions_for_writing_telephone_numbers)
-
-## License
-
-- [MIT](./LICENSE)
